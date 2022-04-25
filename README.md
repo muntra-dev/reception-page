@@ -1,2 +1,2 @@
 # reception-page
-test
+https://muntra-dev.github.io/reception-page/index.js
