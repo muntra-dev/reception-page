@@ -214,6 +214,11 @@ th {
   display: flex;
   flex-direction: row;
 }
+.muntra-reception-widget {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
 .muntra-widget-button {
   background-color: #52a8ff;
   background-size: cover;
